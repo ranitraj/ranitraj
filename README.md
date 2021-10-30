@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ranitrajganguly/)    [![Medium](https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&labelColor=black)](https://medium.com/@ranitrajganguly/)  [![Medium](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&labelColor=white)](mailto:ranitrajganguly@gmail.com)
 
-Android mobile and TV application developer, experienced in working with Bluetooth(LE), WiFi and IoT devices using Java and Kotlin.
+Android mobile and TV application developer, experienced in working with Bluetooth(LE), WiFi and IoT devices.
 
 ## About me 🙂
 
