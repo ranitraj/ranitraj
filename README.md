@@ -11,7 +11,7 @@ Won *All India 3rd prize* 🥉 in 'Build with Serveless', an online Hackathon or
 
 
 - 🔭 I’m currently working on developing a collaborative drawing application for Android mobile devices
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Virtual Reality.
 - 🤔 I’m looking for help with develeping, training and integrating Machine Learning model to detect strokes
 - 💬 Ask me about Anime, Football and Android
 - 😄 Pronouns: He/Him
