@@ -2,7 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ranitrajganguly/)    [![Medium](https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&labelColor=black)](https://medium.com/@ranitrajganguly/)  [![Medium](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&labelColor=white)](mailto:ranitrajganguly@gmail.com)
 
-Android mobile and TV application developer, experienced in working with Bluetooth(LE), WiFi and IoT devices.
+I am pursuing my Master's in Computer Science at the University of Alberta. 
+Experienced in Android mobile and TV application development for fitness and OTT platforms. Also, working with Bluetooth(LE), WiFi and IoT devices.
 
 ## About me 🙂
 
