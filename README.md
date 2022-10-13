@@ -3,17 +3,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ranitrajganguly/)    [![Medium](https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&labelColor=black)](https://medium.com/@ranitrajganguly/)  [![Medium](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&labelColor=white)](mailto:ranitrajganguly@gmail.com)
 
 I am pursuing my Master's in Computer Science at the University of Alberta. 
-Experienced in Android mobile and TV application development for fitness and OTT platforms. Also, working with Bluetooth(LE), WiFi and IoT devices.
 
 ## About me 🙂
+
+I have industrial and freelancing experience as an Android developer for the fitness, home-automation and broadcast industries. In addition to development, my expertise lies in working with BLE and IoT frameworks in Android. I am passionate about exploring new technologies and sharing them as tech articles and Open-Source projects.
+Experience integrating Mixpanel with applications that helped businesses analyze user data to identify trends, and patterns, and make data-driven business decisions based on those insights.
+Designed technical presentations for demonstrating products and services to reputed organizations, such as Google, Xiaomi and Flipkart.
 
 Incoming speaker at Composecamp, Edmonton 2022. Won *All India 3rd prize* 🥉 in 'Build with Serveless', an online Hackathon organized by Amazon Web Services at Skillenza, in 2020 for developing a prototype for a product titled GigVid. Received *Bravo Award* 🏆 in 2019 at Tata Elxsi for improving overall application performance, detecting and fixing memory leaks. *Open mic speaker* 🎤 at Droidcon 2019, Chennai. Published *featured articles* 📄 on Medium.
 
 
 - 🔭 I’m currently working on developing a collaborative drawing application for Android mobile devices
-- 🌱 I’m currently learning Virtual Reality.
+- 🌱 I’m currently learning AI.
 - 🤔 I’m looking for help with develeping, training and integrating Machine Learning model to detect strokes
-- 💬 Ask me about Anime, Football and Android
+- 💬 Ask me about Anime, Football, Android and Mixpanel.
 - 😄 Pronouns: He/Him
 
 ## Languages and Tools 🛠
