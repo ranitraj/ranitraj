@@ -7,7 +7,7 @@ Experienced in Android mobile and TV application development for fitness and OTT
 
 ## About me 🙂
 
-Won *All India 3rd prize* 🥉 in 'Build with Serveless', an online Hackathon organized by Amazon Web Services at Skillenza, in 2020 for developing a prototype for a product titled GigVid. Received *Bravo Award* 🏆 in 2019 at Tata Elxsi for improving overall application performance, detecting and fixing memory leaks. *Open mic speaker* 🎤 at Droidcon 2019, Chennai. Published *featured articles* 📄 on Medium.
+Incoming speaker at Composecamp, Edmonton 2022. Won *All India 3rd prize* 🥉 in 'Build with Serveless', an online Hackathon organized by Amazon Web Services at Skillenza, in 2020 for developing a prototype for a product titled GigVid. Received *Bravo Award* 🏆 in 2019 at Tata Elxsi for improving overall application performance, detecting and fixing memory leaks. *Open mic speaker* 🎤 at Droidcon 2019, Chennai. Published *featured articles* 📄 on Medium.
 
 
 - 🔭 I’m currently working on developing a collaborative drawing application for Android mobile devices
