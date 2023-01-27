@@ -13,9 +13,10 @@ I have designed technical presentations for demonstrating products and services 
 Incoming speaker at Composecamp, Edmonton 2022. Won *All India 3rd prize* 🥉 in 'Build with Serveless', an online Hackathon organized by Amazon Web Services at Skillenza, in 2020 for developing a prototype for a product titled GigVid. Received *Bravo Award* 🏆 in 2019 at Tata Elxsi for improving overall application performance, detecting and fixing memory leaks. *Open mic speaker* 🎤 at Droidcon 2019, Chennai. Published *featured articles* 📄 on Medium.
 
 
-- 🔭 I’m currently working on developing a collaborative drawing application for Android mobile devices
-- 🌱 I’m currently learning AI.
-- 🤔 I’m looking for help with developing, training and integrating Machine Learning model to detect strokes
+- 🔭 I’m currently working on developing a Blockchain application for the Polkadot Hackathon
+
+- 🌱 I’m currently learning Java Spring Boot framework and Blockchain.
+- 🤔 I’m looking for help with Java Spring Boot.
 - 💬 Ask me about Anime, Football, Android and Mixpanel.
 - 😄 Pronouns: He/Him
 
