@@ -6,17 +6,17 @@ I am pursuing my Master's in Computer Science at the University of Alberta.
 
 ## About me 🙂
 
-I have industrial and freelancing experience as an Android developer for the fitness, home-automation and broadcast industries. In addition to development, my expertise lies in working with BLE and IoT frameworks in Android. I am passionate about exploring new technologies and sharing them as tech articles and Open-Source projects.
+I have industrial and freelancing experience as an Android, Spring-Boot developer for the fitness, home-automation and broadcast industries. I am also familiar with Amazon Web Services (AWS). In addition to development, my expertise lies in working with BLE and IoT frameworks in Android. I am passionate about exploring new technologies and sharing them as tech articles and Open-Source projects.
 I have experience integrating Mixpanel with applications that helped businesses analyze user data to identify trends, and patterns, and make data-driven business decisions based on those insights.
 I have designed technical presentations for demonstrating products and services to reputed organizations, such as Google, Xiaomi and Flipkart.
 
 Awarded 1st prize & $800 for demonstrating the project *UofA in Metaverse* in 2023, University of Alberta 🥇. Awarded $100 as an Individual Contribution Prize for *UofA in Metaverse* in 2023, University of Alberta 🎖. Won *All India 3rd prize* 🥉 in 'Build with Serveless', an online Hackathon organized by Amazon Web Services at Skillenza, in 2020 for developing a prototype for a product titled GigVid. Received *Bravo Award* 🏆 in 2019 at Tata Elxsi for improving overall application performance, detecting and fixing memory leaks. *Open mic speaker* 🎤 at Droidcon 2019, Chennai. Published *featured articles* 📄 on Medium.
 
 
-- 🔭 I’m currently working on developing a Blockchain application for the Polkadot Hackathon
-- 🌱 I’m currently learning Java Spring Boot framework and Blockchain.
-- 🤔 I’m looking for help with Java Spring Boot.
-- 💬 Ask me about Anime, Football, Android and Mixpanel.
+- 🔭 I’m currently working on completing my University Assignments
+- 🌱 I’m currently learning Blockchain.
+- 🤔 I’m looking for help with Hyperledger Fabric.
+- 💬 Ask me about Anime, Football, Android, Spring, AWS and Mixpanel.
 - 😄 Pronouns: He/Him
 
 ## Languages and Tools 🛠
