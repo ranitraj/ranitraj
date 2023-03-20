@@ -19,7 +19,7 @@ Awarded 1st prize & $800 for demonstrating the project *UofA in Metaverse* in 20
 - 💬 Ask me about Anime, Football, Android, Spring, AWS and Mixpanel.
 - 😄 Pronouns: He/Him
 
-## Languages and Tools 🛠
+## Languages, Frameworks and Tools 🛠
 ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![](https://img.icons8.com/color/48/000000/kotlin.png) ![icons8-spring-boot-48](https://user-images.githubusercontent.com/15179100/226479786-63499866-b853-478c-91a6-a020dc5d0ede.png)
 ![](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![](https://img.icons8.com/color/48/000000/git.png) 
 ![icons8-amazon-web-services-48](https://user-images.githubusercontent.com/15179100/226479778-f889a085-bef4-4e65-990b-a07cc84a9903.png)
