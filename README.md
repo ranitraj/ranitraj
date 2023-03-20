@@ -6,7 +6,7 @@ I am pursuing my Master's in Computer Science at the University of Alberta.
 
 ## About me 🙂
 
-I have industrial and freelancing experience as an Android, Spring-Boot developer for the fitness, home-automation and broadcast industries. I am also familiar with Amazon Web Services (AWS). In addition to development, my expertise lies in working with BLE and IoT frameworks in Android. I am passionate about exploring new technologies and sharing them as tech articles and Open-Source projects.
+I have industrial and freelancing experience as a Fullstack develeper in Android and Spring-Boot for the fitness, home-automation and broadcast industries. I am also familiar with Amazon Web Services (AWS). In addition to development, my expertise lies in working with BLE and IoT frameworks in Android. I am passionate about exploring new technologies and sharing them as tech articles and Open-Source projects.
 I have experience integrating Mixpanel with applications that helped businesses analyze user data to identify trends, and patterns, and make data-driven business decisions based on those insights.
 I have designed technical presentations for demonstrating products and services to reputed organizations, such as Google, Xiaomi and Flipkart.
 
