@@ -22,8 +22,10 @@ Awarded 1st prize & $800 for demonstrating the project *UofA in Metaverse* in 20
 ## Languages and Tools 🛠
 ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![](https://img.icons8.com/color/48/000000/kotlin.png)
 ![](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![](https://img.icons8.com/color/48/000000/git.png) 
-![](https://img.icons8.com/color/48/000000/arduino.png) !![spring-logo](https://user-images.githubusercontent.com/15179100/226478832-b0d6d6d2-d4b6-4fa1-87ea-1d15718534f4.png)
-![](https://img.icons8.com/fluency/48/000000/unity.png) ![](https://img.icons8.com/color/48/000000/nodejs.png) 
+![](https://img.icons8.com/color/48/000000/arduino.png) ![icons8-amazon-web-services-48](https://user-images.githubusercontent.com/15179100/226479778-f889a085-bef4-4e65-990b-a07cc84a9903.png)
+![icons8-ethereum-48](https://user-images.githubusercontent.com/15179100/226479782-b22889ca-398c-4012-948b-69b05bb6fcce.png)
+![icons8-firebase-48](https://user-images.githubusercontent.com/15179100/226479783-721c46be-5e66-471c-baf5-1a9f9eb51370.png)
+![icons8-spring-boot-48](https://user-images.githubusercontent.com/15179100/226479786-63499866-b853-478c-91a6-a020dc5d0ede.png)
 
 
 ## My favourite projects 👨🏻‍💻
