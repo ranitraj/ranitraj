@@ -22,7 +22,7 @@ Awarded 1st prize & $800 for demonstrating the project *UofA in Metaverse* in 20
 ## Languages and Tools 🛠
 ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![](https://img.icons8.com/color/48/000000/kotlin.png)
 ![](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![](https://img.icons8.com/color/48/000000/git.png) 
-![](https://img.icons8.com/color/48/000000/arduino.png) ![](https://img.icons8.com/color/48/000000/raspberry-pi.png)
+![](https://img.icons8.com/color/48/000000/arduino.png) !![spring-logo](https://user-images.githubusercontent.com/15179100/226478832-b0d6d6d2-d4b6-4fa1-87ea-1d15718534f4.png)
 ![](https://img.icons8.com/fluency/48/000000/unity.png) ![](https://img.icons8.com/color/48/000000/nodejs.png) 
 
 
