@@ -30,7 +30,7 @@ Awarded 1st prize & $800 for demonstrating the project *UofA in Metaverse* in 20
 ## My favourite projects 👨🏻‍💻
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=SmartThermostat&theme=dracula)](https://github.com/ranitraj/ranitraj) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=MqttClient&theme=dracula)](https://github.com/ranitraj/ranitraj)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=ContactsEntrepot&theme=dracula)](https://github.com/ranitraj/ranitraj) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=ArduinoBlePeripheralForAndroid&theme=dracula)](https://github.com/ranitraj/ranitraj)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=ContactsEntrepot&theme=dracula)](https://github.com/ranitraj/ranitraj) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=ActiveNetworkStateObserver&theme=dracula)](https://github.com/ranitraj/ranitraj)
 
 
 ## My Stats 📊
