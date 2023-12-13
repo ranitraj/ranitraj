@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ranitrajganguly/)    [![Medium](https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&labelColor=black)](https://medium.com/@ranitrajganguly/)  [![Medium](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&labelColor=white)](mailto:ranitrajganguly@gmail.com)
 
-I am pursuing my Master's in Computer Science at the University of Alberta (specialization in Multimedia) and currently working as a Machine Learning Intern.
+I am pursuing my Master's in Computer Science at the University of Alberta and currently working as a Machine Learning Intern.
 
 ## About me 🙂
 
