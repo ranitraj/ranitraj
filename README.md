@@ -1,6 +1,6 @@
 # Hi there, I'm Ranit Raj Ganguly 👋🏼
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ranitrajganguly/)    [![Medium](https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&labelColor=black)](https://medium.com/@ranitrajganguly/)  [![Medium](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&labelColor=white)](mailto:ranitrajganguly@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ranitrajganguly/)    [![Medium](https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&labelColor=black)](https://medium.com/@ranitrajganguly/)  [![Medium](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&labelColor=white)](mailto:ranitrajganguly@gmail.com)     ![](https://komarev.com/ghpvc/?username=ranitraj&color=blue)
 
 I am pursuing my Master's in Computer Science at the University of Alberta and currently working as a Machine Learning Intern.
 
@@ -44,5 +44,3 @@ Awarded 1st prize & $800 for demonstrating the project *UofA in Metaverse* in 20
 - [Creating/Reading an Excel in Android](https://medium.com/geekculture/creating-an-excel-in-android-cd9c22198619)
 - [Creating a Custom Alert Dialog with Material Design library in android](https://medium.com/android-dev-hacks/creating-a-custom-alert-dialog-with-material-design-library-in-android-f382bb23a6a8)
 - [Integrating Visual Studio with Unity for Game development](https://medium.com/nerd-for-tech/integrating-visual-studio-with-unity-for-game-development-282bb2f5b365)
-
-![](https://komarev.com/ghpvc/?username=ranitraj&color=blue)
