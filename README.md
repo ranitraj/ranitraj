@@ -14,8 +14,8 @@ Awarded 1st prize & $800 for demonstrating the project *UofA in Metaverse* in 20
 
 
 - 🔭 I’m currently working as an Machine Learnng intern.
-- 🌱 I’m currently learning Blockchain.
-- 🤔 I’m looking for help with Hyperledger Fabric.
+- 🌱 I’m currently learning Fundamentals of LLM.
+- 🤔 I’m looking for help with Deploying LLMs into Production following best practices.
 - 💬 Ask me about Anime, Football, Android, Spring, AWS and Mixpanel.
 - 😄 Pronouns: He/Him
 
