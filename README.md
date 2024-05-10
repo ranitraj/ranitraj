@@ -2,19 +2,19 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ranitrajganguly/)    [![Medium](https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&labelColor=black)](https://medium.com/@ranitrajganguly/)  [![Medium](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&labelColor=white)](mailto:ranitrajganguly@gmail.com)     ![](https://komarev.com/ghpvc/?username=ranitraj&color=blue)
 
-I am pursuing my Master's in Computer Science at the University of Alberta and currently working as a Machine Learning Intern.
+I am pursuing my Master's in Computer Science at the University of Alberta and currently working as a Senior Software Engineer.
 
 ## About me 🙂
 
-I have industrial and freelancing experience as a Fullstack developer in Android and Spring-Boot frameworks for the fitness, home automation and broadcast industries. I am also familiar with Amazon Web Services (AWS). In addition to development, my expertise lies in working with BLE and IoT frameworks in Android. I am passionate about exploring new technologies and sharing them as tech articles and Open-Source projects.
+I have experience as an ML Engineer, Fullstack developer in Android and Spring-Boot frameworks for the fitness, home automation and broadcast industries. I am also familiar with Amazon Web Services (AWS). In addition to AI and Backend development, my expertise lies in working with BLE and IoT frameworks in Android. I am passionate about exploring new technologies and sharing them as tech articles and Open-Source projects.
 I have experience integrating Mixpanel with applications that helped businesses analyze user data to identify trends, and patterns, and make data-driven business decisions based on those insights.
 I have designed technical presentations for demonstrating products and services to reputed organizations, such as Google, Xiaomi and Flipkart.
 
 Awarded 1st prize & $800 for demonstrating the project *UofA in Metaverse* in 2023, University of Alberta 🥇. Awarded $100 as an Individual Contribution Prize for *UofA in Metaverse* in 2023, University of Alberta 🎖. Won *All India 3rd prize* 🥉 in 'Build with Serveless', an online Hackathon organized by Amazon Web Services at Skillenza, in 2020 for developing a prototype for a product titled GigVid. Received *Bravo Award* 🏆 in 2019 at Tata Elxsi for improving overall application performance, detecting and fixing memory leaks. *Open mic speaker* 🎤 at Droidcon 2019, Chennai. Published *featured articles* 📄 on Medium.
 
 
-- 🔭 I’m currently working as an Machine Learnng intern.
-- 🌱 I’m currently learning Fundamentals of LLM.
+- 🔭 I’m currently working as an Senior Software Engineer.
+- 🌱 I’m currently learning MLOps.
 - 🤔 I’m looking for help with Deploying LLMs into Production following best practices.
 - 💬 Ask me about Anime, Football, Android, Spring, AWS and Mixpanel.
 - 😄 Pronouns: He/Him
