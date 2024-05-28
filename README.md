@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ranitrajganguly/)    [![Medium](https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&labelColor=black)](https://medium.com/@ranitrajganguly/)  [![Medium](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&labelColor=white)](mailto:ranitrajganguly@gmail.com)     ![](https://komarev.com/ghpvc/?username=ranitraj&color=blue)
 
-I am currently working as a Senior Software Engineer holding Master's degree in Computing Science at the University of Alberta.
+I am currently working as a Senior Software Engineer holding Master's degree in Computing Science from the University of Alberta.
 
 ## About me 🙂
 
