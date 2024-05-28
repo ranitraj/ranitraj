@@ -19,14 +19,20 @@ Awarded 1st prize & $800 for demonstrating the project *UofA in Metaverse* in 20
 - 💬 Ask me about Anime, Football, Android, Spring, AWS and Mixpanel.
 - 😄 Pronouns: He/Him
 
-## Languages, Frameworks and Tools 🛠
-![](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) ![](https://img.icons8.com/color/48/000000/kotlin.png) ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) 
-![icons8-spring-boot-48](https://user-images.githubusercontent.com/15179100/226479786-63499866-b853-478c-91a6-a020dc5d0ede.png)
-![](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![](https://img.icons8.com/color/48/000000/git.png) 
-![icons8-amazon-web-services-48](https://user-images.githubusercontent.com/15179100/226479778-f889a085-bef4-4e65-990b-a07cc84a9903.png)
-![icons8-firebase-48](https://user-images.githubusercontent.com/15179100/226479783-721c46be-5e66-471c-baf5-1a9f9eb51370.png) ![icons8-ethereum-48](https://user-images.githubusercontent.com/15179100/226479782-b22889ca-398c-4012-948b-69b05bb6fcce.png) ![](https://img.icons8.com/color/48/000000/arduino.png) 
+## Languages 💻
+![Python](https://img.icons8.com/?size=48&id=13441&format=png&color=000000) ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) 
 
+## Frameworks 🛠
+![Android](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![fast_api](https://github.com/ranitraj/ranitraj/assets/15179100/1f299b27-f163-4ed7-9264-db5bc8ef375b) ![Spring](https://user-images.githubusercontent.com/15179100/226479786-63499866-b853-478c-91a6-a020dc5d0ede.png) 
 
+## Cloud Services ☁
+![AWS](https://user-images.githubusercontent.com/15179100/226479778-f889a085-bef4-4e65-990b-a07cc84a9903.png) ![Firebase](https://user-images.githubusercontent.com/15179100/226479783-721c46be-5e66-471c-baf5-1a9f9eb51370.png)
+
+## DevOps & Version Control 🗒️
+![Gitlab](https://img.icons8.com/?size=48&id=34886&format=png&color=000000) ![Git](https://img.icons8.com/color/48/000000/git.png) 
+
+## Containerization 📦
+![Docker](https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png&color=000000) ![Kubernetes](https://img.icons8.com/?size=48&id=cvzmaEA4kC0o&format=png&color=000000)
 
 ## My favourite projects 👨🏻‍💻
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=SmartThermostat&theme=dracula)](https://github.com/ranitraj/ranitraj) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=MqttClient&theme=dracula)](https://github.com/ranitraj/ranitraj)
