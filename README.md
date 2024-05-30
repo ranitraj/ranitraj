@@ -46,7 +46,8 @@ Awarded 1st prize & $800 for demonstrating the project *UofA in Metaverse* in 20
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranitraj&layout=compact&theme=dracula)](https://github.com/ranitraj/ranitraj) 
 
 
-## My Blog posts 📰
+## My Publications & Blog posts 📰
+- [Identifying Similar Test Cases That Are Specified in Natural Language](https://hal.science/hal-03911555/document)
 - [Implementing an Active Network-State Monitor in Android](https://medium.com/geekculture/implementing-an-active-network-state-monitor-in-android-dbbc24cf2bc5)
 - [Creating/Reading an Excel in Android](https://medium.com/geekculture/creating-an-excel-in-android-cd9c22198619)
 - [Creating a Custom Alert Dialog with Material Design library in android](https://medium.com/android-dev-hacks/creating-a-custom-alert-dialog-with-material-design-library-in-android-f382bb23a6a8)
