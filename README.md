@@ -34,7 +34,7 @@ Awarded 1st prize & $800 for demonstrating the project *UofA in Metaverse* in 20
 ## Containerization 📦
 ![Docker](https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png&color=000000) ![Kubernetes](https://img.icons8.com/?size=48&id=cvzmaEA4kC0o&format=png&color=000000)
 
-## Analytics 📦
+## Analytics 📈
 ![logo-mixpanel](https://github.com/ranitraj/ranitraj/assets/15179100/2e10b889-b9bd-4ce7-b325-5d51646ebf44) 
 
 
