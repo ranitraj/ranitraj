@@ -6,7 +6,7 @@ I am currently working as a Senior Software Engineer holding Master's degree in 
 
 ## About me 🙂
 
-I have experience as an ML Engineer, Fullstack developer in Android and Spring-Boot frameworks for the fitness, home automation and broadcast industries. I am also familiar with Amazon Web Services (AWS). In addition to AI and Backend development, my expertise lies in working with BLE and IoT frameworks in Android. I am passionate about exploring new technologies and sharing them as tech articles and Open-Source projects.
+I have experience as an ML Engineer working on developing end-to-end cutting-edge applications utilizing LLMs, Fullstack developer in Android and Spring-Boot frameworks for the fitness, home automation and broadcast industries. I am also familiar with Amazon Web Services (AWS). In addition to AI and Backend development, my expertise lies in working with BLE and IoT frameworks in Android. I am passionate about exploring new technologies and sharing them as tech articles and Open-Source projects.
 I have experience integrating Mixpanel with applications that helped businesses analyze user data to identify trends, and patterns, and make data-driven business decisions based on those insights.
 I have designed technical presentations for demonstrating products and services to reputed organizations, such as Google, Xiaomi and Flipkart.
 
