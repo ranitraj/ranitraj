@@ -2,23 +2,28 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ranitrajganguly/)    [![Medium](https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&labelColor=black)](https://medium.com/@ranitrajganguly/)  [![Medium](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&labelColor=white)](mailto:ranitrajganguly@gmail.com)     ![](https://komarev.com/ghpvc/?username=ranitraj&color=blue)
 
-I am currently working as a Senior Software Engineer in AI holding Master's degree in Computing Science from the University of Alberta.
+I am currently working as a *Senior Software Engineer (AI)* with a Master's in Computing Science from the *University of Alberta*.
 
 ## About me 🙂
 
-I have experience as an AI Engineer working on developing and deploying scalable end-to-end cutting-edge applications utilizing LLMs. Additionally, I also have experience in cloud services, especially Amazon Web Services (AWS), FastAPI, Android and Spring-Boot frameworks. In addition to AI, Native Android and Backend development, my expertise also lies in working and integrating BLE and IoT frameworks with mobile applications. I am passionate about exploring new technologies and sharing them as tech articles and Open-Source projects.
-I have experience integrating Mixpanel with applications that helped businesses analyze user data to identify trends, and patterns, and make data-driven business decisions based on those insights.
+I specialize in building and deploying scalable, production-ready AI applications using LLMs. My expertise includes AWS cloud services, FastAPI, Android, and Spring Boot frameworks, along with integrating BLE and IoT frameworks into mobile solutions. I've successfully integrated analytics platforms like Mixpanel, helping businesses leverage user data for strategic insights.
 
-I have extensive experience working at startups and MNCs in fitness, home automation and broadcast domains serving more than 10 million active users.
-I have designed technical presentations for demonstrating products and services to reputed organizations, such as Google, Xiaomi and Flipkart.
+I've worked with startups and multinational corporations in fitness, home automation, and broadcasting, reaching over 10 million active users. I've delivered technical presentations to major industry leaders, including Google, Xiaomi, and Flipkart.
 
-Awarded 1st prize & $800 for demonstrating the project *UofA in Metaverse* in 2023, University of Alberta 🥇. Awarded $100 as an Individual Contribution Prize for *UofA in Metaverse* in 2023, University of Alberta 🎖. Won *All India 3rd prize* 🥉 in 'Build with Serveless', an online Hackathon organized by Amazon Web Services at Skillenza, in 2020 for developing a prototype for a product titled GigVid. Received *Bravo Award* 🏆 in 2019 at Tata Elxsi for improving overall application performance, detecting and fixing memory leaks. *Open mic speaker* 🎤 at Droidcon 2019, Chennai. Published *featured articles* 📄 on Medium.
+## Achievements 🏅
 
+- 🥇 1st Prize: UofA in Metaverse Project, University of Alberta (2023)
+- 🥉 3rd Prize: AWS "Build with Serverless" Hackathon (2020)
+- 🏆 Bravo Award at Tata Elxsi (2019)
+- 🎤 Open mic speaker at Droidcon, India (2019)
+- 📄 Published Featured articles on Medium
 
-- 🔭 I’m currently working as a Senior Software Engineer.
-- 🌱 I’m currently learning ML System Design.
-- 🤔 I’m looking for help with deploying Fine-tuned LLMs into Production following best practices and a cost-effective approach.
-- 💬 Ask me about Anime, Football, Android, Spring, AWS and Mixpanel.
+## Current Focus & Interests 🚀
+
+- 🔭 Currently: Senior Software Engineer in AI
+- 🌱 Learning: ML System Design
+- 🤔 Seeking help: Deploying fine-tuned LLMs efficiently into production
+- 💬 Let's talk: Anime | Football | AI | Android | Spring | AWS | Mixpanel
 - 😄 Pronouns: He/Him
 
 ## Languages 💻
