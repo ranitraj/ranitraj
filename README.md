@@ -6,7 +6,7 @@ I am currently working as a Senior Software Engineer in AI holding Master's degr
 
 ## About me 🙂
 
-I have experience as an AI Engineer working on developing and deploying scalable end-to-end cutting-edge applications utilizing LLMs. Additionally, I also have experience in cloud services, especially Amazon Web Services (AWS), FastAPI, Android and Spring-Boot frameworks. In addition to AI and Backend development. My expertise also lies in working and integrating BLE and IoT frameworks with mobile applications. I am passionate about exploring new technologies and sharing them as tech articles and Open-Source projects.
+I have experience as an AI Engineer working on developing and deploying scalable end-to-end cutting-edge applications utilizing LLMs. Additionally, I also have experience in cloud services, especially Amazon Web Services (AWS), FastAPI, Android and Spring-Boot frameworks. In addition to AI, Native Android and Backend development, my expertise also lies in working and integrating BLE and IoT frameworks with mobile applications. I am passionate about exploring new technologies and sharing them as tech articles and Open-Source projects.
 I have experience integrating Mixpanel with applications that helped businesses analyze user data to identify trends, and patterns, and make data-driven business decisions based on those insights.
 
 I have extensive experience working at startups and MNCs in fitness, home automation and broadcast domains serving more than 10 million active users.
