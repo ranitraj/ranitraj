@@ -14,8 +14,8 @@ Awarded 1st prize & $800 for demonstrating the project *UofA in Metaverse* in 20
 
 
 - 🔭 I’m currently working as an Senior Software Engineer.
-- 🌱 I’m currently learning MLOps.
-- 🤔 I’m looking for help with Deploying LLMs into Production following best practices.
+- 🌱 I’m currently learning ML System Design.
+- 🤔 I’m looking for help with Deploying Fine-tuned LLMs into Production following best practices.
 - 💬 Ask me about Anime, Football, Android, Spring, AWS and Mixpanel.
 - 😄 Pronouns: He/Him
 
