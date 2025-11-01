@@ -31,7 +31,7 @@ I've worked with startups and multinational corporations in fitness, home automa
 ![Python](https://img.icons8.com/?size=48&id=13441&format=png&color=000000) ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) 
 
 ## Frameworks 🛠
-![Android](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![fast_api](https://github.com/ranitraj/ranitraj/assets/15179100/1f299b27-f163-4ed7-9264-db5bc8ef375b) ![Spring](https://user-images.githubusercontent.com/15179100/226479786-63499866-b853-478c-91a6-a020dc5d0ede.png) 
+![fast_api](https://github.com/ranitraj/ranitraj/assets/15179100/1f299b27-f163-4ed7-9264-db5bc8ef375b) <img src="https://github.com/user-attachments/assets/358277a5-68bf-4398-93e8-a5745cba5e6e" width="48" height="48" alt="Langchain"> ![Android](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![Spring](https://user-images.githubusercontent.com/15179100/226479786-63499866-b853-478c-91a6-a020dc5d0ede.png) 
 
 ## Cloud Services ☁
 ![AWS](https://user-images.githubusercontent.com/15179100/226479778-f889a085-bef4-4e65-990b-a07cc84a9903.png) ![Firebase](https://user-images.githubusercontent.com/15179100/226479783-721c46be-5e66-471c-baf5-1a9f9eb51370.png)
