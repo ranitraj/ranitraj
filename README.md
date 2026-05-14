@@ -34,7 +34,7 @@ I've worked with startups and multinational corporations in fitness, home automa
 ![fast_api](https://github.com/ranitraj/ranitraj/assets/15179100/1f299b27-f163-4ed7-9264-db5bc8ef375b) <img src="https://github.com/user-attachments/assets/358277a5-68bf-4398-93e8-a5745cba5e6e" width="48" height="48" alt="Langchain"> ![Android](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![Spring](https://user-images.githubusercontent.com/15179100/226479786-63499866-b853-478c-91a6-a020dc5d0ede.png) 
 
 ## Cloud Services ☁
-![AWS](https://user-images.githubusercontent.com/15179100/226479778-f889a085-bef4-4e65-990b-a07cc84a9903.png) ![Firebase](https://user-images.githubusercontent.com/15179100/226479783-721c46be-5e66-471c-baf5-1a9f9eb51370.png)
+![AWS](https://user-images.githubusercontent.com/15179100/226479778-f889a085-bef4-4e65-990b-a07cc84a9903.png) ![GCP](https://img.icons8.com/?size=48&id=20774&format=png&color=000000)
 
 ## DevOps & Version Control 🗒️
 ![Gitlab](https://img.icons8.com/?size=48&id=34886&format=png&color=000000) ![Git](https://img.icons8.com/color/48/000000/git.png) 
@@ -50,15 +50,20 @@ I've worked with startups and multinational corporations in fitness, home automa
 
 
 ## My favourite projects 👨🏻‍💻
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=InstaLens&theme=dracula)](https://github.com/ranitraj/instaLens) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=MqttClient&theme=dracula)](https://github.com/ranitraj/ranitraj)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=ContactsEntrepot&theme=dracula)](https://github.com/ranitraj/ranitraj) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ranitraj&repo=ActiveNetworkStateObserver&theme=dracula)](https://github.com/ranitraj/ranitraj)
+[![InstaLens](https://github-readme-stats-liart-alpha-44.vercel.app/api/pin/?username=ranitraj&repo=instaLens&theme=dracula)](https://github.com/ranitraj/instaLens)
+[![Agentic Python Template](https://github-readme-stats-liart-alpha-44.vercel.app/api/pin/?username=ranitraj&repo=agentic-python-template&theme=dracula)](https://github.com/ranitraj/agentic-python-template)
 
+[![Self-Improving LLM Wiki](https://github-readme-stats-liart-alpha-44.vercel.app/api/pin/?username=ranitraj&repo=self-improving-llm-wiki&theme=dracula)](https://github.com/ranitraj/self-improving-llm-wiki)
+[![Multi-Agent Prompt Optimizer](https://github-readme-stats-liart-alpha-44.vercel.app/api/pin/?username=ranitraj&repo=multi-agent-prompt-optimizer&theme=dracula)](https://github.com/ranitraj/multi-agent-prompt-optimizer)
 
 ## My Stats 📊
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ranitraj&show_icons=true&theme=dracula)](https://github.com/ranitraj/ranitraj)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranitraj&layout=compact&theme=dracula)](https://github.com/ranitraj/ranitraj) 
+[![Ranit's GitHub stats](https://github-readme-stats-liart-alpha-44.vercel.app/api?username=ranitraj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/ranitraj)
+
+[![Top Langs](https://github-readme-stats-liart-alpha-44.vercel.app/api/top-langs/?username=ranitraj&layout=compact&theme=dracula&langs_count=8)](https://github.com/ranitraj)
+
+## Trophies 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=ranitraj&theme=dracula&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## My Publications & Blog posts 📰
