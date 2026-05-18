@@ -51,7 +51,7 @@ I've worked with startups and multinational corporations in fitness, home automa
 
 ## My favourite projects 👨🏻‍💻
 [![InstaLens](https://github-readme-stats-liart-alpha-44.vercel.app/api/pin/?username=ranitraj&repo=instaLens&theme=dracula)](https://github.com/ranitraj/instaLens)
-[![Agentic Python Template](https://github-readme-stats-liart-alpha-44.vercel.app/api/pin/?username=ranitraj&repo=agentic-python-template&theme=dracula)](https://github.com/ranitraj/agentic-python-template)
+[![Moor](https://github-readme-stats-liart-alpha-44.vercel.app/api/pin/?username=ranitraj&repo=moor&theme=dracula)](https://github.com/ranitraj/moor)
 
 [![Self-Improving LLM Wiki](https://github-readme-stats-liart-alpha-44.vercel.app/api/pin/?username=ranitraj&repo=self-improving-llm-wiki&theme=dracula)](https://github.com/ranitraj/self-improving-llm-wiki)
 [![Multi-Agent Prompt Optimizer](https://github-readme-stats-liart-alpha-44.vercel.app/api/pin/?username=ranitraj&repo=multi-agent-prompt-optimizer&theme=dracula)](https://github.com/ranitraj/multi-agent-prompt-optimizer)
